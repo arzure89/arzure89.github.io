@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ariel Zuñiga Reyes personal website
 
 You can use the [editor on GitHub](https://github.com/arzure89/arzure89.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
